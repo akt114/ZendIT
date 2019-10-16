@@ -6,6 +6,7 @@ const path = require('path');
 const twilio = require('twilio');
 const schedule = require('node-schedule');
 const nodemailer = require('nodemailer');
+const port = 7000;
 var emails = require('./schemas/emails.js')
 var message = require('./schemas/sms.js');
 var o,d,t,year,month,dat,hour,minutes,seconds;
@@ -347,7 +348,7 @@ app.get('/menu2',(req,res)=>{
     res.render('menu2.ejs');
 })
 
-app.listen(7000,()=>{
-    console.log('node app running on',7000);
+app.listen(port,()=>{
+    console.log(`node app running on ${port}`);
     
 });
