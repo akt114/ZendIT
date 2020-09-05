@@ -1,4 +1,4 @@
-ZendIT is an Email & SMS Scheduler app.
+ZendIT is an Email & SMS Scheduling Web App.
 
 The user needs to signup to our app to use it .
 He/she will be having their own dashboard where they can schedule emails and sms at any particular date and time and can view their pending scheduled tasks in an organized manner.
