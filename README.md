@@ -2,18 +2,18 @@
 ZendIT is an Email and SMS scheduling Web App which lets users schedule and manage their tasks
 effectively with ease. Once the user signs Up on our platform he/she can schedule the sending of Emails or SMS and can manage all the schedule tasks through the dashboard. The dashboard contains all the scheduled tasks of the current week and any event can also be cancelled anytime before the scheduled time.
 
-###**Technology Used :-**
+### Technology Used :-
 
-Frontend- HTML , CSS , Javascript , Bootstrap
+**Frontend**- HTML , CSS , Javascript , Bootstrap
 
-Backend – NodeJS , ExpressJS , MongoDB
+**Backend** – NodeJS , ExpressJS , MongoDB
 
-API – Twilio API
-
-
+**API** – Twilio API
 
 
-###**Use Cases of ZendIT:-**
+
+
+### Use Cases of ZendIT:-
 
 1) Scheduling sending of  important emails early morning when you couldn’t get up early due to some reason(maybe ill or something)
 2) Schedule Birthday and Anniversary wishes sharp at midnight when you’re not in a condition to stay up late night.
