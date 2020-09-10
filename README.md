@@ -20,6 +20,12 @@ effectively with ease. Once the user signs Up on our platform he/she can schedul
 3) Self reminders of important tasks and deadlines via SMS and Email.
 4)In an Organisation, to send reminders about meetings , daily tasks etc.
 
+### Main motive behind building ZendIT:-
+
+As an individual , I personally felt the need of the use cases mentioned above and that triggered me to build ZendIT. Although I understand that there is a schedule feature implemented in Gmail already, but as a Developer there is no greater Joy than building things on own and implementing them by understanding what exactly happens  behind the scenes. Who wouldn’t love to build something which could be used not only by him/her but also by many other individuals who feel there is a need for something and thus, ZendIT was build.
+
+
+
 
 
 You can see the pictures of the website  in the "screenshots" folder in this repository (https://github.com/akt114/ZendIT).
