@@ -28,4 +28,4 @@ As an individual , I personally felt the need of the use cases mentioned above a
 
 
 
-You can see the pictures of the website  in the "screenshots" folder in this repository (https://github.com/akt114/ZendIT).
+You can see the pictures of the website  in the *screenshots* folder [here](https://github.com/akt114/ZendIT).
