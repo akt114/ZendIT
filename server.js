@@ -68,16 +68,12 @@ app.post('/add-email',(req,res)=>{
     seconds=0;
  
     // console.log(hour);
-    // console.log(minutes);
-    // console.log(seconds);
+
  
     from='aditya.reus11@gmail.com';
     const{to,subject,text}=o;
  
- // console.log(from);
- // console.log(to);
- // console.log(subject);
- // console.log(text);
+
  Id1=Id1+'b';
  var email=new emails({subject,from,to,text,date:d,time:t,status:"pending",uniqueId:Id1});
  email.save();
