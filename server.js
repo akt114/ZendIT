@@ -45,10 +45,6 @@ app.get('/add-email',(req,res)=>{
 
 app.post('/add-email',(req,res)=>{
 
-
-
-
-
     console.log(req.body);
     o=req.body;
  
@@ -57,19 +53,13 @@ app.post('/add-email',(req,res)=>{
     year=parseInt(d.substring(0,4));
     month=parseInt(d.substring(5,7)) -1;
     dat=parseInt(d.substring(8,10));
- 
-    // console.log(year);
-    // console.log(month);
-    // console.log(dat);
+
  
     t=o.time;
     hour=parseInt(t.substring(0,2));
     minutes=parseInt(t.substring(3,5));
     seconds=0;
- 
-    // console.log(hour);
 
- 
     from='aditya.reus11@gmail.com';
     const{to,subject,text}=o;
  
