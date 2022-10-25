@@ -8,7 +8,7 @@ effectively with ease. Once the user signs Up on our platform he/she can schedul
 
 **Backend** – NodeJS , ExpressJS , MongoDB
 
-**API** – Twilio API
+**API** – Twilio Api
 
 
 
