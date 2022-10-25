@@ -2,7 +2,6 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const ejs = require('ejs');
 const path = require('path');
-// const popup=require('popups');
 const twilio = require('twilio');
 const schedule = require('node-schedule');
 const nodemailer = require('nodemailer');
